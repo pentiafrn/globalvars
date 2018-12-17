@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;EACI,iBAA4B,EAI/B;EAHG;IAFJ;MAGQ,iBAAe,EAEtB,EAAA","file":"../Test/index.css","sourcesContent":["body {\r\n    max-width:global-var(medium);\r\n    @media (max-width: global-var(large)) {\r\n        max-width:200px;\r\n    }\r\n}"]}

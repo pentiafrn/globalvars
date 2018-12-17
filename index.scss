@@ -1,0 +1,6 @@
+body {
+    max-width:global-var(medium);
+    @media (max-width: global-var(large)) {
+        max-width:200px;
+    }
+}

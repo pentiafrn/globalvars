@@ -1,0 +1,7 @@
+body {
+  max-width: 750px; }
+  @media (max-width: 1000px) {
+    body {
+      max-width: 200px; } }
+
+/*# sourceMappingURL=../sourcemap/index.css.map */

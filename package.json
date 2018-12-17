@@ -1,0 +1,27 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch",
+    "gulp": "gulp",
+    "sass": "gulp sass",
+    "scripts": "gulp scripts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^6.6.1",
+    "browserify": "^16.2.3",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "devDependencies": {
+    "postcss": "^6.0.9"
+  }
+}
